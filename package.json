@@ -1,0 +1,13 @@
+{
+  "name": "angular_http_utilities",
+  "version": "0.0.4",
+  "description": "Http Utilities for Angular 6+",
+  "author": "Kyle Morton",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "^6.0.2",
+    "@angular/common": "^6.0.2",
+    "@angular/http": "^6.0.2",
+    "rxjs": "^6.0.0"
+  }
+}
