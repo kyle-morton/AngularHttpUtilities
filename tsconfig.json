@@ -1,9 +1,13 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "ES2017",
     "module": "commonjs",
     "declaration": true,
     "outDir": "./dist",
     "strict": true
-  }
+  },
+  "files": [
+      "src/http-utilities.module.ts",
+      "src/services/api.service.ts",
+    ]
 }

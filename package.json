@@ -1,6 +1,6 @@
 {
   "name": "angular_http_utilities",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Http Utilities for Angular 6+",
   "author": "Kyle Morton",
   "license": "MIT",
