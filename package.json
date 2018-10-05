@@ -5,9 +5,12 @@
   "author": "Kyle Morton",
   "license": "MIT",
   "dependencies": {
-    "@angular/core": "^6.0.2",
     "@angular/common": "^6.0.2",
+    "@angular/core": "^6.0.2",
     "@angular/http": "^6.0.2",
     "rxjs": "^6.0.0"
+  },
+  "scripts": {
+    "build": "angular-package-builder ./.angular-package.json"
   }
 }
